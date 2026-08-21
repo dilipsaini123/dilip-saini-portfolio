@@ -8,9 +8,9 @@ export const profile = {
   location: 'Hyderabad, India',
   email: 'dilip.dotnet8@gmail.com',
   phone: '+91-7815806156',
-  linkedin: 'https://www.linkedin.com/in/dilip-saini',
-  github: 'https://github.com/dilip-saini',
-  leetcode: 'https://leetcode.com/dilip-saini',
+  linkedin: 'https://www.linkedin.com/in/dilip-saini-8907ab221',
+  github: 'https://github.com/dilipsaini123',
+  leetcode: 'https://leetcode.com/u/deepu_129/',
   summary:
     'Experienced Software Engineer with 4+ years building scalable enterprise applications and managing large-scale Azure cloud infrastructure. Strong programming skills, a keen problem-solving mindset, and a proven track record of delivering high-quality software solutions — from .NET microservices to multi-region cloud environments with 1,800+ Azure resources.',
   highlights: [
